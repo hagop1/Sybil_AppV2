@@ -7,7 +7,7 @@ function HomeScreen(props){
     const [passWord, setPassword] = useState();
     return (
         <ImageBackground 
-        source={require("C:/Users/Hagop/Desktop/secondApp/assets/Sybil_blank.png")} 
+        source={require("C:/Users/Hagop/Sybil_AppV2/assets/Sybil_blank.png")} 
         style={styles.background}
         >
             {/* <KeyboardAvoidingView behavior="padding" style = {styles.background}> */}

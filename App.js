@@ -9,9 +9,9 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 // import AsyncStorage from '@react-native-community/async-storage';
 
 // import HomeScreen from "C:/Users/Hagop/secondApp/app/screens/HomeScreen.js";
-import MainScreen from "C:/Users/Hagop/Desktop/secondApp/app/screens/MainScreen.js";
-import ProfileScreen from "C:/Users/Hagop/Desktop/secondApp/app/screens/ProfilleScreen.js";
-import SettingScreen from "C:/Users/Hagop/Desktop/secondApp/app/screens/SettingScreen.js";
+import MainScreen from "C:/Users/Hagop/Sybil_AppV2/app/screens/MainScreen.js";
+import ProfileScreen from "C:/Users/Hagop/Sybil_AppV2/app/screens/ProfilleScreen.js";
+import SettingScreen from "C:/Users/Hagop/Sybil_AppV2/app/screens/SettingScreen.js";
 
 import { State } from 'react-native-gesture-handler';
 // (...)
@@ -32,7 +32,7 @@ function SignInScreen() {
 
   return (
     <ImageBackground 
-    source={require("C:/Users/Hagop/Desktop/secondApp/assets/Sybil_blank.png")} 
+    source={require("C:/Users/Hagop/Sybil_AppV2/assets/Sybil_blank.png")} 
     style={styles.background}
     >
     {/* <View> */}

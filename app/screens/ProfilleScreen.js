@@ -41,7 +41,7 @@ const ProfileScreen = () => {
       <View style={styles.userInfoSection}>
         <View style={{flexDirection: 'row', marginTop: 15}}>
           <Avatar.Image 
-            source={require('C:/Users/Hagop/Desktop/secondApp/assets/avataaars.png')}
+            source={require('C:/Users/Hagop/Sybil_AppV2/assets/avataaars.png')}
             size={80}
           />
           <View style={{marginLeft: 20}}>
